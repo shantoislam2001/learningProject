@@ -56,11 +56,13 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\scriptable object\setText.cs" />
     <Compile Include="Assets\Scripts\PlayerInputActions.cs" />
+    <Compile Include="Assets\scriptable object\Data.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\fpp.cs" />
-    <Compile Include="Assets\scriptable object\Data.cs" />
-    <Compile Include="Assets\scriptable object\setText.cs" />
+    <Compile Include="Assets\Scripts\test input system\test.cs" />
+    <Compile Include="Assets\Scripts\test input system\testScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

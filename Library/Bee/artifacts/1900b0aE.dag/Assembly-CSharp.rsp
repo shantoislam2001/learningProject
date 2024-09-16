@@ -360,6 +360,8 @@
 "Assets/scriptable object/setText.cs"
 "Assets/Scripts/fpp.cs"
 "Assets/Scripts/PlayerInputActions.cs"
+"Assets/Scripts/test input system/test.cs"
+"Assets/Scripts/test input system/testScript.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
